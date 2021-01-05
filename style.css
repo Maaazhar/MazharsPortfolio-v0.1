@@ -1,0 +1,275 @@
+body
+{
+    font-family: Comic Sans MS;
+    margin: 0;
+}
+
+.details-area
+{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+
+.descrip-area
+{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+.goal-area
+{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+
+.exp-area
+{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+}
+
+.half-width
+{
+    width: 35%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+section
+{
+    height: 400px;
+}
+
+
+
+.name
+{
+    font-family: Cooper Black;
+    font-size: 60px;
+    color: #5d07fc;
+    text-shadow: 2px 2px 10px gray;
+}
+
+.name:hover
+{
+    color: honeydew;
+    text-shadow: 5px 5px 30px red;
+}
+
+.greetings
+{
+    font-family: Footlight MT Light;
+    color: rgb(174, 0, 255);
+    margin-top: 10%;
+    margin-bottom: -9%;
+}
+
+ul
+{
+    font-family: Bookman Old Style;
+    font-size: 10px;
+    margin-top: -8%;
+    margin-left: -4%;
+    font-size: 20px;
+}
+
+#pp
+{
+    width: 50%;
+    margin-left: 1%;
+    margin-top: 3%;
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 52%;
+}
+
+#pp:hover
+{
+    box-shadow: 5px 5px 30px red;
+}
+
+#laptop
+{
+    width: 50%;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 10%;
+    box-shadow: 2px 2px 20px gray;
+}
+
+#laptop:hover
+{
+    box-shadow: 5px 5px 30px red;
+}
+
+#profile
+{
+    margin-left: -15%;
+    margin-top: 2%;
+    padding-left: 2%;
+}
+
+a
+{
+    text-decoration: none;
+    background-color: rgb(176, 248, 8);
+    background-image: linear-gradient(45deg, palegreen, skyblue);
+    padding: 10px 20px;
+    border-radius: 35px;
+    font-weight: 500;
+    float: left;
+    margin-left: 40%;
+    box-shadow: 5px 5px 30px gray;
+    margin-top: -18px;
+}
+
+a:hover
+{
+    color: honeydew;
+    box-shadow: 5px 5px 30px red;
+    background-image: linear-gradient(45deg, #fb98b9, rgb(235, 135, 135));
+}
+
+.description
+{
+    margin-left: 14%;
+    padding-left: 5%;
+    margin-right: 23%;
+    padding-right: 5%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-top: -110px;
+    
+}
+
+.description:hover
+{
+    box-shadow: 5px 5px 30px #00ff9d;
+}
+
+#goal
+{
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-top: -140px;
+}
+
+#goal:hover
+{
+    box-shadow: 5px 5px 30px #00ff9d;
+}
+
+#goal h1
+{
+    text-align: center;
+    font-variant-caps: inherit;
+    color: #04fce7;
+    font-family: Footlight MT Light;
+    font-size: 40px;
+}
+
+#goal h1:hover
+{
+    color: rgb(220, 4, 248);
+    text-shadow: 5px 5px 30px red;
+}
+
+#dream-picture 
+{
+    width: 100%;
+    margin-left: 25%;
+    margin-top: -180px;
+}
+
+#resume
+{
+    margin-top: -220px;
+    margin-left: 610px;
+}
+
+#experience
+{
+    font-family: Footlight MT Light;
+    font-size: 60px;
+    color: #2007fc;
+    text-shadow: 2px 2px 10px gray;
+    margin-top: -170px;
+    margin-left: 500px;
+    box-shadow: 10px 10px 40px gray;
+    height: 50%;
+    width: 25%;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 0.8%;
+    border-radius: 10px;
+}
+
+.exp
+{
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-top: -15px;
+    height: 65%;
+    width: 33%;
+}
+
+.exp:hover
+{
+    box-shadow: 5px 5px 30px red;
+}
+
+#experience:hover
+{
+    color: rgb(253, 4, 108);
+    text-shadow: 5px 5px 30px red;
+    box-shadow: 5px 5px 30px #00ff9d;
+}
+
+.exp h2
+{
+    font-family: Bookman Old Style;
+    font-size: 25px;
+}
+
+.exp h3
+{
+    margin-top: -15px;
+    color: rgb(255, 94, 0);
+    font-family: Bookman Old Style;
+}
+
+.exp span
+{
+    font-size: 16px;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 16px;
+    color: slategrey;
+    font-family: Courier New;
+}
+
+hr
+{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
