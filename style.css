@@ -75,6 +75,7 @@ section
     font-size: 55px;
     color: #5d07fc;
     text-shadow: 2px 2px 10px gray;
+    transition: 0.5s;
 }
 
 .name:hover
@@ -107,6 +108,7 @@ ul
     margin-top: 3%;
     box-shadow: 2px 2px 20px gray;
     border-radius: 52%;
+    transition: 0.5s;
 }
 
 #pp:hover
@@ -121,6 +123,7 @@ ul
     margin-top: 3%;
     margin-left: 10%;
     box-shadow: 2px 2px 20px gray;
+    transition: 0.5s;
 }
 
 #laptop:hover
@@ -147,6 +150,7 @@ a
     margin-left: 40%;
     box-shadow: 5px 5px 30px gray;
     margin-top: -18px;
+    transition: 0.5s;
 }
 
 a:hover
@@ -168,7 +172,7 @@ a:hover
     padding-bottom: 8px;
     padding-top: 8px;
     margin-top: -110px;
-    
+    transition: 0.5s;
 }
 
 .description:hover
@@ -187,6 +191,7 @@ a:hover
     padding-bottom: 8px;
     padding-top: 8px;
     margin-top: -140px;
+    transition: 0.5s;
 }
 
 #goal:hover
@@ -201,6 +206,7 @@ a:hover
     color: #04fce7;
     font-family: Footlight MT Light;
     font-size: 40px;
+    transition: 0.5s;
 }
 
 #goal h1:hover
@@ -237,6 +243,7 @@ a:hover
     padding-top: 1%;
     padding-bottom: 0.8%;
     border-radius: 10px;
+    transition: 0.5s;
 }
 
 .exp
@@ -252,6 +259,7 @@ a:hover
     margin-top: -15px;
     height: 65%;
     width: 33%;
+    transition: 0.5s;
 }
 
 .exp:hover
@@ -290,6 +298,7 @@ footer
     font-size: 16px;
     color: slategrey;
     font-family: Courier New;
+    transition: 0.5s;
 }
 
 footer:hover
